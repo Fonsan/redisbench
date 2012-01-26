@@ -1,0 +1,12 @@
+GEM
+  specs:
+    hiredis (0.4.4)
+    redis (2.2.2)
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  hiredis
+  redis
