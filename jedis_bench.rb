@@ -1,7 +1,7 @@
 require 'bundler/setup'
 #require 'perftools'
 require 'java'
-require 'jedis-2.0.0.jar'
+require 'ext/jedis-2.0.0.jar'
 import "redis.clients.jedis.Jedis"
 require 'benchmark'
 #require "redis/connection/hiredis"
